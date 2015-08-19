@@ -24,4 +24,4 @@ using System.Windows;
 )]
 
 
-[assembly: InternalsVisibleTo("Gma.QrCodeNet.Encoding.Tests")]
+
